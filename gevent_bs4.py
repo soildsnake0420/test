@@ -82,7 +82,7 @@ class gevent_movies():
                     print(content.text)
                 except:
                     #如果缺失信息，则打印下面
-                    print('暂无信息')
+                    print('暂无信息') 
 
                 print('---------------')
 
